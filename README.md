@@ -1,5 +1,5 @@
 # praktikum.5
-Nama : muflih sallda maulana <p>
+Nama : muflih salda maulana <p>
 NIM : 312410527 <p>
 Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa Pemrograman <p>
@@ -73,6 +73,27 @@ Menghentikan loop dan keluar dari program.
 Pilihan Tidak Valid:
 
 Jika pilihan tidak dikenali, menampilkan pesan bahwa pilihan tidak valid.
+
+7. Menjalankan Program
+
+![menjalankan perogram](https://github.com/user-attachments/assets/0d5ae079-b362-413e-aaa9-d1c1cff536ff)
+
+ Baris ini memastikan bahwa fungsi main hanya akan dijalankan jika file ini dieksekusi sebagai program utama, bukan jika diimpor sebagai modul.
+
+# hasil perogram
+1. Menjalankan Program Setelah menjalankan program, Anda akan melihat output awal seperti ini:![hasil 1](https://github.com/user-attachments/assets/18a44cdf-ef9d-480d-9cb3-a24f1c1e6d16)
+
+2. Menampilkan Menu Program akan menampilkan menu pilihan:
+3. Menambah Mahasiswa Jika Anda memilih untuk menambah mahasiswa dengan memasukkan 'T', program akan meminta Anda untuk memasukkan data:
+4. Melihat Daftar Mahasiswa Jika Anda memilih 'L', program akan menampilkan daftar mahasiswa:
+5. Mengubah Data Mahasiswa Jika Anda memilih 'U' dan memasukkan NIM mahasiswa yang ingin diubah:
+6. Melihat Daftar Mahasiswa Setelah Diubah Memilih 'L' lagi untuk melihat daftar mahasiswa setelah perubahan:
+7. Menghapus Mahasiswa Jika Anda memilih 'H' untuk menghapus mahasiswa:
+8. Mencari Mahasiswa Jika Anda memilih 'C' untuk mencari mahasiswa:
+9. Keluar dari Program Jika Anda memilih 'K', program akan berhenti:
+
+
+
 
 
 

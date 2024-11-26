@@ -1,5 +1,5 @@
 # praktikum.5
-Nama : muflih salda maulana <p>
+Nama : Muflih Salda Maulana <p>
 NIM : 312410527 <p>
 Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa Pemrograman <p>
